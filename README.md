@@ -1,3 +1,20 @@
+# Introduction
+## Background
+
+# Research objective and Hypothesis
+
+# Data set and Exploration
+## Data acquisition
+## Data preprocessing
+## Exploratory data analysis (EDA)
+
+# Kmeans clustering implementation (methodology)
+
+# Results
+
+# Conclusion
+
+
 # Welcome to Moosic
 
 Moosic is a little start up that creates curated playlists done by music experts and specialists in old and new trends. Users can subscribe to their website and listen to these playlists through their preferred Music App (be it Spotify, Apple Music, Youtube Music…). They love the fact that their playlists have a personal touch, and that each playlist encapsulates a certain “mood” or “style”.
@@ -25,9 +42,6 @@ A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 repre
 
 **danceability** (float):
 Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.
-
-**duration_ms** (integer):
-The duration of the track in milliseconds.
 
 **energy** (float):
 Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale. Perceptual features contributing to this attribute include dynamic range, perceived loudness, timbre, onset rate, and general entropy.
@@ -63,3 +77,9 @@ A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a trac
 # How a computer differentiates songs from one another.
 
 It is is calculated using linear algebra. That is simply calculating the distances between songs. It’s the same as plotting the songs on a graph and measuring how far apart they are.
+
+
+# Data acquisition and methodology
+
+# Exploratory Data Analysis (EDA)
+
